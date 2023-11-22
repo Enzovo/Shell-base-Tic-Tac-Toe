@@ -9,7 +9,7 @@
 
 ### My project is named "concurrent Tic-Tac-Toe games with interruption"
 
-    It's an online Tic-Tac-Toe multiplayer game server. It will use the command line to start, move and win the game. There are several parts in the instructions, which followed a specific protocol.
+    It's an online Tic-Tac-Toe multiplayer game server with C language. select(), socket(), etc. methods in C standard library are applied. It will use the command line to start, move and win the game. There are several parts in the instructions, which followed a specific protocol.
 
     Protocols: 
     • PLAY name
